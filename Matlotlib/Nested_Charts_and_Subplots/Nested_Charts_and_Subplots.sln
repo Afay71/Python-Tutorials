@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Nested_Charts_and_Subplots", "Nested_Charts_and_Subplots.pyproj", "{EAD966B7-74CD-4EE1-8BCB-B656A49C1FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD966B7-74CD-4EE1-8BCB-B656A49C1FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD966B7-74CD-4EE1-8BCB-B656A49C1FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56EE76F-6F5D-4CDB-93B4-9C8211263FF7}
+	EndGlobalSection
+EndGlobal
